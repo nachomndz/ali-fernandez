@@ -1,6 +1,6 @@
 import React from 'react';
 import './Section3.css';
-import PersonaImage from '../src/assets/arms-crossed-ali.jpeg'; // Asegúrate de que la ruta sea correcta
+import ArmsCrossed from '../public/arms-crossed-ali.jpeg'; // Asegúrate de que la ruta sea correcta
 
 const Section3: React.FC = () => {
     return (
@@ -16,7 +16,7 @@ const Section3: React.FC = () => {
           </form>
         </div>
         <div className="section3-image">
-          <img src={PersonaImage} alt="Persona con brazos cruzados" />
+          <img src={ArmsCrossed} alt="Persona con brazos cruzados" />
         </div>
       </div>
     </div>

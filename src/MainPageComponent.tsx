@@ -1,6 +1,6 @@
 import React from 'react';
 import './MainPageComponent.css';
-import aliImage from '../../personal-brand-ali/src/assets/white-dress-ali.jpeg';
+import aliImage from '../public/white-dress-ali.jpeg';
 
 const MainPageComponent = () => {
   return (

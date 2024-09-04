@@ -1,6 +1,6 @@
 import React from 'react';
 import './Logo.css';
-import logoImage from '../src/assets/logo-alicia.png'; // Ruta de tu imagen
+import logoImage from '../public/logo-alicia.png';
 
 const Logo: React.FC = () => {
     return (
