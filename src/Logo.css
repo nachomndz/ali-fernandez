@@ -1,0 +1,10 @@
+.logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    height: 150px; /* Ajusta la altura según necesites */
+    width: auto; /* Mantiene la proporción de la imagen */
+  }
+  

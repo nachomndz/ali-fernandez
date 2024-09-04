@@ -1,0 +1,24 @@
+.section2 {
+    background-color: #1a1a1a;  /* Fondo oscuro */
+    padding: 100px 20px;  /* Espacio superior e inferior grande para centrar el contenido */
+    text-align: center;
+    font-size: 1.8em;  /* Aumentar el tamaño de la fuente */
+    color: white;
+    font-family: 'Georgia', serif;  /* Elegante, serif font similar a la captura */
+    line-height: 1.6;  /* Aumenta el espacio entre líneas para mejorar la legibilidad */
+  }
+  
+  .section2 p {
+    margin: 0 auto;
+    max-width: 800px;  /* Limita el ancho del texto para que no ocupe toda la pantalla */
+  }
+  
+  .section2::before {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 4px;
+    background-color: white;
+    margin: 0 auto 20px auto;  /* Barra decorativa superior */
+  }
+  

@@ -1,0 +1,17 @@
+.section1 {
+    background-color: white; /* Fondo blanco */
+    padding: 80px 20px; /* Espaciado amplio en la parte superior e inferior */
+    text-align: center;
+    font-size: 2em; /* Aumentar el tamaño de la fuente */
+    color: #333; /* Color del texto */
+    font-family: 'Georgia', serif; /* Fuente serif para un estilo más elegante */
+    line-height: 1.5; /* Espaciado entre líneas */
+    max-width: 900px; /* Limitar el ancho máximo del texto */
+    margin: 0 auto; /* Centrar la sección */
+  }
+  
+  .section1 p {
+    margin: 0 auto;
+    max-width: 800px; /* Limitar el ancho del párrafo para mejorar la legibilidad */
+  }
+  
